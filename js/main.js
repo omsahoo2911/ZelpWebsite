@@ -11,5 +11,6 @@ function fromState(ev){
     let e = document.getElementById("search5").value;
     document.body.innerHTML = a + b +c+d+e;
 }//qwd12we12qweqwe
+//edited by akash
 
 document.addEventListener('DOMContentLoaded', init)
