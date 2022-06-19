@@ -9,8 +9,7 @@ function fromState(ev){
     let c = document.getElementById("search3").value;
     let d = document.getElementById("search4").value;
     let e = document.getElementById("search5").value;
-    document.body.innerHTML = a + b +c+d+e;
-}//qwd12we12qweqwe
-//edited by akash123123
+    document.body.innerHTML = a + b + c + d + e;
+}
 
 document.addEventListener('DOMContentLoaded', init)
